@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# CV
+## This is website is about CV and it is based on HTML ony.
 
-You can use the [editor on GitHub](https://github.com/inerplankton/cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Website Link: <a href="https://portfoliokit.github.io/cv/">CV</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Screenshots:
 
-### Markdown
+### ``` Home Screen ```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div align="center">
+  <img src="screenshots/HomePage.png">
+  </div>
 
-```markdown
-Syntax highlighted code block
+### ``` Hobbies Page ```
 
-# Header 1
-## Header 2
-### Header 3
+<div align="center">
+  <img src="screenshots/Hobbies.png">
+  </div>
+  
+### ``` Contact Page ```
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/inerplankton/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div align="center">
+  <img src="screenshots/Contact.png">
+  </div>
