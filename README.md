@@ -1,8 +1,6 @@
 # CV
 ## This is website is about CV and it is based on HTML ony.
 
-### Website Link: <a href="https://portfoliokit.github.io/cv/">CV</a>
-
 ### Screenshots:
 
 ### ``` Home Screen ```
