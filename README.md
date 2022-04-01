@@ -1,5 +1,5 @@
 # CV
-## This is website is about CV and it is based on HTML ony.
+## This is website is about CV and it is based on HTML and CSS.
 
 ### Screenshots:
 
